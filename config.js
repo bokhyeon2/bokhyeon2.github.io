@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://bokhyeon2.github.io',
   pathPrefix: '/',
   title: 'BOKBOK blog',
   subtitle: '안녕하세요. 개발하면서 접한 기술 또는 경험한 이슈를 정리하는 블로그 입니다.',
