@@ -3,7 +3,7 @@ title: 블로그를 시작하면서...
 date: "2021-05-05T10:20:00.000Z"
 template: "post"
 draft: false
-slug: "블로그를-시작하면서..."
+slug: "at-first-of-blog"
 category: "이런 저런 얘기"
 tags:
   - "잡담"  
