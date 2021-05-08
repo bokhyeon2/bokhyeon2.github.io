@@ -1,13 +1,36 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/static/media/image-2.jpg"
+socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+### 이복현
+- [bokhyeon2@gmail.com](matilto:bokhyeon2@gmail.com)
+- [https://github.com/bokhyeon2](https://github.com/bokhyeon2)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### Experience
+#### 한국정보공학(주) 2018. 12 ~ Present
+- 셀러공간 Front-end 개발
+- React, React-native
+  
+#### 국민대학교 Nanomechatronics Lab. 2018. 03 ~ 2018. 12
+- 인체 호기가스를 통한 건강 진단 플랫폼 개발
+- C, Arduino
+  
+#### (주)블레스정보통신 연구개발팀. 2013. 05 ~ 2015. 12
+- 인터넷 공유기 펌웨어 개발
+- C, ASP
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### Education
+#### 국민대학교 2016. 03 ~ 2018. 02
+- 기계설계학 전공
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+### Skills
+
+
+### Projects
+
+
+### Awards
+- 2016 대한기계학회 춘/추계 학술대회 우수 논문상 (휴대형 수질 센서 플랫폼)
